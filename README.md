@@ -9,7 +9,6 @@ This is a Udacity Nanodegree Project . I chose Stackoverflow’s 2019 Annual Dev
 6. [Licensing, Authors, and Acknowledgements](#lics)   
 <a name="inst"/>
 # Installation
-
 This code runs with Python version 3.* and requires some libraries, to install theses libraries you will need to execute:
 pip install -r requirements.txt
 
