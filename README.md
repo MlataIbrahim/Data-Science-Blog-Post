@@ -14,7 +14,7 @@ This is a Udacity Nanodegree Project . I chose Stackoverflow’s 2019 Annual Dev
 This code runs with Python version 3.* and requires some libraries, to install theses libraries you will need to execute:
 pip install -r requirements.txt
 
-You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Survey and put in specific folders. You can find the data to download [link to Google!](https://drive.google.com/open?id=1QOmVDpd8hcVYqqUXDXf68UMDWQZP0wQV.
+You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Survey and put in specific folders. You can find the data to download 
 
 To move the downloaded files to the specific folder, you can execute.
 
