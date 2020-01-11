@@ -12,8 +12,8 @@ This is a Udacity Nanodegree Project . I chose Stackoverflow’s 2019 Annual Dev
 
 The code should run with Python versions 3.
 These libraries are required to run the code here.
-pandas 
-pip install pandas 
+`pandas` 
+```pip install pandas```. 
 pandas_profiling
 pip install pandas_profiling
 numpy
@@ -50,7 +50,8 @@ The interpretation of the results are published in this blog [post](https://medi
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Results of the 2019 Developer Survey are available under the Open Database License,feel free to use the code here as you would like!# Data-Science-Blog-Post.
+Results of the 2019 Developer Survey are available under the Open Database License,feel free to use the code as you would like 
+
 
 
 
