@@ -12,7 +12,8 @@ This is a Udacity Nanodegree Project . I chose Stackoverflow’s 2019 Annual Dev
 
 The code should run with Python versions 3.
 These libraries are required to run the code here.  
-**pandas**```pip install pandas```  
+**pandas**```pip install pandas``` 
+
 **pandas_profiling**```pip install pandas_profiling```  
 **numpy**```pip install numpy```   
 **matplotlib**```pip install matplotlib```  
