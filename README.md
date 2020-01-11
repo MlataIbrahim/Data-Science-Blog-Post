@@ -10,39 +10,47 @@ This is a Udacity Nanodegree Project . I chose Stackoverflow’s 2019 Annual Dev
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+The code should run with Python versions 3.
+These libraries are required to run the code here.
+pandas 
+pip install pandas 
+pandas_profiling
+pip install pandas_profiling
+numpy
+pip install numpy
+matplotlib
+pip install matplotlib
+seaborn 
+pip install seaborn
 You can download Stackoverflow’s 2019 Annual Developer Survey from [Here ](https://drive.google.com/open?id=1QOmVDpd8hcVYqqUXDXf68UMDWQZP0wQV).
 
 ## Project Motivation<a name="motivation"></a>
 
-This is an Udacity Nanodegree project. I chose FIFA 19 complete player dataset. 
+This is an Udacity Nanodegree project. I chose Stackoverflow’s 2019 Annual Developer Survey dataset. 
 
-As a football fan,  it would be quite interesting to apply data analysis skills here. 
-
-My key interests would be:
-
-1. What's the ratio of  total wages/ total potential for clubs. Which clubs are the most economical ？
-2. How is nation team player total market value distributed? Probably show a distribution plot in a world map?
-3. How is a player's skilsl set influence his potential/wage? Can we predict a player's potential based on his skills' set? 
+ and analyze the data needed to answer the following questions.
+ 
+1. Is Open source tools affect your job satisfaction ？
+2. How data people are using Stackoverflow ?
+3. What data people’s salaries related to?
 
 ## File Descriptions <a name="files"></a>
 
-Data.csv contains lastest edition FIFA 2019 players attributes including age, potential, wage, etc. 
+Profile.html contains a data profiling of Developer Survey responses including Developer Type , Langauge work with , etc. 
 
-There is also a notebook available here to showcsae all my work related to my three questions.
+Data Science Blog Post - Stackoverflow 2019.ipynb is a jupyter notebook file to showcsae all my work related to my three questions.
 
 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020) available
+The interpretation of the results are published in this blog [post](https://medium.com/@mlataibrahim/how-data-people-are-using-stackoverflow-f8799f8e0e9e) 
 
 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Udacity courses for some of code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/karangadiya/fifa19). Otherwise, feel free to use the code here as you would like!# Data-Science-Blog-Post
-This is a Udacity Nanodegree Project . I chose Stackoverflow’s 2019 Annual Developer Survey
+Results of the 2019 Developer Survey are available under the Open Database License,feel free to use the code here as you would like!# Data-Science-Blog-Post.
 
 
 
