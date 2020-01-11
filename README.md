@@ -37,9 +37,9 @@ This is an Udacity Nanodegree project. I chose Stackoverflow’s 2019 Annual Dev
 
 ## File Descriptions <a name="files"></a>
 
-Profile.html contains a data profiling of Developer Survey responses including Developer Type , Langauge work with , etc. 
+`Profile.html` contains a data profiling of Developer Survey responses including Developer Type , Langauge work with , etc. 
 
-Data Science Blog Post - Stackoverflow 2019.ipynb is a jupyter notebook file to showcsae all my work related to my three questions.
+`Data Science Blog Post - Stackoverflow 2019.ipynb` is a jupyter notebook file to showcsae all my work related to my three questions.
 
 
 
