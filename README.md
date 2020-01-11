@@ -12,23 +12,23 @@ This is a Udacity Nanodegree Project . I chose Stackoverflow’s 2019 Annual Dev
 
 The code should run with Python versions 3.
 These libraries are required to run the code here.
-`pandas` 
+**pandas** 
 ```pip install pandas```. 
-pandas_profiling
-pip install pandas_profiling
-numpy
-pip install numpy
-matplotlib
-pip install matplotlib
-seaborn 
-pip install seaborn
+**pandas_profiling**
+```pip install pandas_profiling```
+**numpy**
+```pip install numpy```
+**matplotlib**
+```pip install matplotlib```
+**seaborn**
+```pip install seaborn```
 You can download Stackoverflow’s 2019 Annual Developer Survey from [Here ](https://drive.google.com/open?id=1QOmVDpd8hcVYqqUXDXf68UMDWQZP0wQV).
 
 ## Project Motivation<a name="motivation"></a>
 
 This is an Udacity Nanodegree project. I chose Stackoverflow’s 2019 Annual Developer Survey dataset. 
 
- and analyze the data needed to answer the following questions.
+ i'm interested to answer the following questions.
  
 1. Is Open source tools affect your job satisfaction ？
 2. How data people are using Stackoverflow ?
